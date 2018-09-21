@@ -1,0 +1,32 @@
+﻿Build started 9/1/2018 3:55:43 PM.
+     1>Project "C:\Users\user\Documents\AyushWork\projects\WriteDigChan\WriteDigChan\WriteDigChan.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\WriteDigChan.lastbuildstate".
+       InitializeBuildStatus:
+         Touching "Debug\WriteDigChan.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D WRITEDIGCHAN_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt WriteDigChan.cpp
+         WriteDigChan.cpp
+       ManifestResourceCompile:
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\WriteDigChan.dll.embed.manifest.res" Debug\WriteDigChan_manifest.rc 
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\Documents\AyushWork\projects\WriteDigChan\WriteDigChan\Debug\WriteDigChan.dll" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files\National Instruments\Shared\ExternalCompilerSupport\C\lib32\msvc" /LIBPATH:"C:\Program Files\National Instruments\NI-DAQ\DAQmx ANSI C Dev\lib\msvc" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\WriteDigChan.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\user\Documents\AyushWork\projects\WriteDigChan\WriteDigChan\Debug\WriteDigChan.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\user\Documents\AyushWork\projects\WriteDigChan\WriteDigChan\Debug\WriteDigChan.lib" /MACHINE:X86 /DLL Debug\WriteDigChan.dll.embed.manifest.res
+         Debug\WriteDigChan.obj
+            Creating library C:\Users\user\Documents\AyushWork\projects\WriteDigChan\WriteDigChan\Debug\WriteDigChan.lib and object C:\Users\user\Documents\AyushWork\projects\WriteDigChan\WriteDigChan\Debug\WriteDigChan.exp
+       Manifest:
+         Deleting file "Debug\WriteDigChan.dll.embed.manifest".
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\WriteDigChan.dll.embed.manifest" /manifest Debug\WriteDigChan.dll.intermediate.manifest
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\WriteDigChan.dll.embed.manifest.res" Debug\WriteDigChan_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\Documents\AyushWork\projects\WriteDigChan\WriteDigChan\Debug\WriteDigChan.dll" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files\National Instruments\Shared\ExternalCompilerSupport\C\lib32\msvc" /LIBPATH:"C:\Program Files\National Instruments\NI-DAQ\DAQmx ANSI C Dev\lib\msvc" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\WriteDigChan.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\user\Documents\AyushWork\projects\WriteDigChan\WriteDigChan\Debug\WriteDigChan.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\user\Documents\AyushWork\projects\WriteDigChan\WriteDigChan\Debug\WriteDigChan.lib" /MACHINE:X86 /DLL Debug\WriteDigChan.dll.embed.manifest.res
+         Debug\WriteDigChan.obj
+            Creating library C:\Users\user\Documents\AyushWork\projects\WriteDigChan\WriteDigChan\Debug\WriteDigChan.lib and object C:\Users\user\Documents\AyushWork\projects\WriteDigChan\WriteDigChan\Debug\WriteDigChan.exp
+         WriteDigChan.vcxproj -> C:\Users\user\Documents\AyushWork\projects\WriteDigChan\WriteDigChan\Debug\WriteDigChan.dll
+       FinalizeBuildStatus:
+         Deleting file "Debug\WriteDigChan.unsuccessfulbuild".
+         Touching "Debug\WriteDigChan.lastbuildstate".
+     1>Done Building Project "C:\Users\user\Documents\AyushWork\projects\WriteDigChan\WriteDigChan\WriteDigChan.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.70
